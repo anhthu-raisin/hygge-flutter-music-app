@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "612733383162",
+    "project_id": "music-app-8ed69",
+    "storage_bucket": "music-app-8ed69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612733383162:android:0599fce9d4aeba05bc7443",
+        "android_client_info": {
+          "package_name": "com.example.hygge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612733383162-pl9bn8chp91tk397j21qbq3sl8n1kmt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_7oXcf3yUAtPpejTKE-uCyl7Z70uxNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612733383162-pl9bn8chp91tk397j21qbq3sl8n1kmt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612733383162:android:af617c5f7d4a37d6bc7443",
+        "android_client_info": {
+          "package_name": "com.example.hygge_catch_your_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612733383162-pl9bn8chp91tk397j21qbq3sl8n1kmt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_7oXcf3yUAtPpejTKE-uCyl7Z70uxNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612733383162-pl9bn8chp91tk397j21qbq3sl8n1kmt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

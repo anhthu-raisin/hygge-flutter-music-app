@@ -1,0 +1,43 @@
+name: hygge
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # Firebase Database
+  cloud_firestore: ^4.8.3
+
+  # Speech to text
+  speech_to_text: ^6.3.0
+  avatar_glow: ^2.0.2
+
+  # Audio Player
+  audioplayers: ^5.0.0
+
+  # State management
+  hooks_riverpod: ^2.3.7
+  flutter_hooks: ^0.20.0
+
+  # Recognize music
+  acr_cloud_sdk: ^2.0.2
+
+  # RES API
+  dio: ^5.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
